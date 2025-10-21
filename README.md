@@ -1,2 +1,0 @@
-# InsuraFlow
-CTS Project Mini
